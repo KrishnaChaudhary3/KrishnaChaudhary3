@@ -1,7 +1,7 @@
 - 👋 Hi, I’m krishna chaudhary.
 - 👀 I’m interested in web development.
-- -> I have learned c , python and html 
-- 🌱 I’m currently learning css , java
+- -> I have learned html,css,python,c and java.
+- 🌱 I’m currently learning web development.
 - > I'am looking to collaborate on some open source project.
 - > reach me on : krishna.hs.chaudhary@gmail.com
 
